@@ -76,3 +76,6 @@ This script is provided as-is under the [MIT License](https://opensource.org/lic
 ## Contributing
 
 Feel free to open issues or submit pull requests to improve the script.
+
+---
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q21EW45A)
